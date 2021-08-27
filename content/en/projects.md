@@ -4,10 +4,9 @@ description: Some of my personal projects
 date: 2020-10-21
 ---
 
-## DexOffline for Windows and for Android
+## DexOffline
 
-The goal of this app (desktop and mobile) is to find words in DEX (the Romanian language dictionary),
-generate Scrabble words, read word of day feed etc.
+The goal of this app (desktop and mobile) is to find words in DEX (the Romanian language dictionary), generate Scrabble words, read word of day feed etc.
 [More details](/dexoffline)
 
 ## Time-series math

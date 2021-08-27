@@ -36,13 +36,13 @@ We automatically log information about you and your device in the following ways
 | DexOffline for Windows | DexOffline Plus for Windows | |
 | :---: | :---: | :--- |
 | ✔ | ✔ | view tabs collected by Visual Studio App Center: [privacy policy](https://privacy.microsoft.com) |
-| ✔ | - | ads from AdDuplex: [privacy policy](https://www.adduplex.com/privacy-policy) |
+| ✔ | - | ads from AdDuplex: [privacy policy](https://www.adduplex.com/privacy-policy) and Vungle: [privacy policy](https://vungle.com/privacy/), ad personalization can be disabled from app |
 
 | DexOffline for Android / iOS | DexOffline Plus for Android / iOS | |
 | :---: | :---: | :--- |
 | ✔ | ✔ | view tabs collected by Google Analytics for Firebase: [use policy](https://firebase.google.com/policies/analytics) |
 | ✔ | ✔ | crashes collected by Crashlytics: [data processing and security terms](https://firebase.google.com/terms/crashlytics-app-distribution-data-processing-terms) |
-| ✔ | - | ads from Google AdMob: [policies and restrictions](https://support.google.com/admob/answer/6128543), ad personalization can be disabled from app |
+| ✔ | - | ads from Google AdMob: [policies and restrictions](https://support.google.com/admob/answer/6128543) and Vungle: [privacy policy](https://vungle.com/privacy/), ad personalization can be disabled from app |
 
 ## Use of personal information
 

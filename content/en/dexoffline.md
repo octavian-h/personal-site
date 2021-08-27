@@ -17,8 +17,9 @@ can read the feed with words of the day, generate valid words for the Scrabble g
 | Search words in the local dictionary (DEX 2009) | ✔ | ✔ |
 | Search words online (dexonline.ro) | ✔ | ✔ |
 | Check if a word is in the official Scrabble word list for Romanian language | ✔ | ✔ |
-| Store search words history | ✔ | ✔ |
+| Browse and filter the words in the local dictionary | ✔ | ✔ |
 | Generate words for Scrabble | - | ✔ |
+| Store search words history | ✔ | ✔ |
 | Read the feed with word of day | ✔ | ✔ |
 | Play Pheasant game | ✔ | ✔ |
 | Play Hangman game | ✔ | ✔ |
