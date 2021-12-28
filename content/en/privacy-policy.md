@@ -14,8 +14,8 @@ collect, use and share personal information of consumer users of the
 * [DexOffline Plus for Windows](https://www.microsoft.com/store/apps/9nfvk1wqt472)
 * [DexOffline for Android](https://play.google.com/store/apps/details?id=ro.hasna.dexoffline)
 * [DexOffline Plus for Android](https://play.google.com/store/apps/details?id=ro.hasna.dexoffline.plus)
-* [DexOffline for iOS](https://apps.apple.com/app/id1567763970#?platform=iphone)
-* [DexOffline Plus for iOS](https://apps.apple.com/app/id1567769712#?platform=iphone)
+* [DexOffline for macOS/iOS](https://apps.apple.com/app/id1567763970)
+* [DexOffline Plus for macOS/iOS](https://apps.apple.com/app/id1567769712)
 
 ## What we collect
 
@@ -38,7 +38,7 @@ We automatically log information about you and your device in the following ways
 | ✔ | ✔ | view tabs collected by Visual Studio App Center: [privacy policy](https://privacy.microsoft.com) |
 | ✔ | - | ads from AdDuplex: [privacy policy](https://www.adduplex.com/privacy-policy) and Vungle: [privacy policy](https://vungle.com/privacy/), ad personalization can be disabled from app |
 
-| DexOffline for Android / iOS | DexOffline Plus for Android / iOS | |
+| DexOffline for Android / macOS / iOS | DexOffline Plus for Android / macOS / iOS | |
 | :---: | :---: | :--- |
 | ✔ | ✔ | view tabs collected by Google Analytics for Firebase: [use policy](https://firebase.google.com/policies/analytics) |
 | ✔ | ✔ | crashes collected by Crashlytics: [data processing and security terms](https://firebase.google.com/terms/crashlytics-app-distribution-data-processing-terms) |
