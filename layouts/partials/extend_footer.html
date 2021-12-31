@@ -1,0 +1,12 @@
+<script>
+	const items = document.getElementsByClassName("footer");
+	if (items.length > 0){
+		const privacyLink = document.createElement('a');
+		privacyLink.href = '{{ "" | absLangURL }}privacy-policy/';
+		privacyLink.innerText = 'Privacy policy';
+		const extra = document.createElement('span');
+		extra.appendChild(document.createTextNode(" - "));
+		extra.appendChild(privacyLink);		
+		items[items.length-1].appendChild(extra);
+	}	
+</script>

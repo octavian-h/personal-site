@@ -28,10 +28,14 @@ languages:
           weight: 1
         - name: Projects
           url: /projects/
-          weight: 5
-        - name: Privacy Policy
-          url: /privacy-policy/
-          weight: 10
+          weight: 2
+        - name: Research
+          url: /research/
+          weight: 3          
+        - name: Publications
+          url: /publications/
+          weight: 4
+
   ro:
     languageName: Română
     contentDir: content/ro
@@ -44,9 +48,6 @@ languages:
         - name: Blog
           url: /posts/
           weight: 1
-        - name: en
-          url: ../en/
-          weight: 2
 
 minify:
   minifyOutput: true
@@ -58,6 +59,7 @@ params:
 
   ShowReadingTime: false
   ShowShareButtons: false
+  ShowBreadCrumbs: false
   ShowToc: true
   comments: false
   defaultTheme: auto
