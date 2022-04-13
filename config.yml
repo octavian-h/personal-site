@@ -23,9 +23,6 @@ languages:
         text: Home
     menu:
       main:
-        - name: DexOffline
-          url: /dexoffline/
-          weight: 1
         - name: Projects
           url: /projects/
           weight: 2
@@ -55,7 +52,7 @@ minify:
 params:
   env: production
   author: Octavian Hasna
-  description: Presentation website with personal projects and a blog with Romanian posts.
+  description: Presentation website with personal projects, research interests, publications and a blog with Romanian posts.
 
   ShowReadingTime: false
   ShowShareButtons: false

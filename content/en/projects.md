@@ -1,10 +1,15 @@
 ---
 title: Projects
-description: Some of my personal projects
+description: A list with my publised apps, libraries and contest problems.
 date: 2020-10-21
 ---
 
-## DexOffline
+## Fun Dictionary
+
+The goal of this app is to search words in English dictionaries and play word games like Hangman, Wordle etc.
+[More details](/fundictionary)
+
+## Dex Offline
 
 The goal of this app (desktop and mobile) is to find words in DEX (the Romanian language dictionary), generate Scrabble words, read word of day feed etc.
 [More details](/dexoffline)

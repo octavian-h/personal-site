@@ -16,6 +16,10 @@ collect, use and share personal information of consumer users of the
 * [DexOffline Plus for Android](https://play.google.com/store/apps/details?id=ro.hasna.dexoffline.plus)
 * [DexOffline for macOS/iOS](https://apps.apple.com/app/id1567763970)
 * [DexOffline Plus for macOS/iOS](https://apps.apple.com/app/id1567769712)
+* [FunDictionary for Android](https://play.google.com/store/apps/details?id=ro.hasna.fundictionary)
+* [FunDictionary Plus for Android](https://play.google.com/store/apps/details?id=ro.hasna.fundictionary.plus)
+* [FunDictionary for macOS/iOS](https://apps.apple.com/app/id1619120887)
+* [FunDictionary Plus for macOS/iOS](https://apps.apple.com/app/id1619120905)
 
 ## What we collect
 
@@ -39,6 +43,12 @@ We automatically log information about you and your device in the following ways
 | ✔ | - | ads from AdDuplex: [privacy policy](https://www.adduplex.com/privacy-policy) and Vungle: [privacy policy](https://vungle.com/privacy/), ad personalization can be disabled from app |
 
 | DexOffline for Android / macOS / iOS | DexOffline Plus for Android / macOS / iOS | |
+| :---: | :---: | :--- |
+| ✔ | ✔ | view tabs collected by Google Analytics for Firebase: [use policy](https://firebase.google.com/policies/analytics) |
+| ✔ | ✔ | crashes collected by Crashlytics: [data processing and security terms](https://firebase.google.com/terms/crashlytics-app-distribution-data-processing-terms) |
+| ✔ | - | ads from Google AdMob: [policies and restrictions](https://support.google.com/admob/answer/6128543) and Vungle: [privacy policy](https://vungle.com/privacy/), ad personalization can be disabled from app |
+
+| FunDictionary for Android / macOS / iOS | FunDictionary Plus for Android / macOS / iOS | |
 | :---: | :---: | :--- |
 | ✔ | ✔ | view tabs collected by Google Analytics for Firebase: [use policy](https://firebase.google.com/policies/analytics) |
 | ✔ | ✔ | crashes collected by Crashlytics: [data processing and security terms](https://firebase.google.com/terms/crashlytics-app-distribution-data-processing-terms) |
