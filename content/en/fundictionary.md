@@ -8,7 +8,7 @@ date: 2022-03-30
 
 | | Fun English Dictionary | Fun English Dictionary Plus |
 | --- | :---: | :---: |
-| Search words in the offline dictionary (WordNet) | - | ✔ |
+| Search words in the offline dictionary (WordNet) | ✔ | ✔ |
 | Search words in online English dictionaries (Wiktionary) | ✔ | ✔ |
 | Check if a word is in the official Scrabble word list for English language | ✔ | ✔ |
 | Browse and filter the words in the dictionary | ✔ | ✔ |
