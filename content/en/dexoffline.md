@@ -20,9 +20,9 @@ date: 2020-10-21
 | Play Wordle game (not on Windows version) | ✔ | ✔ |
 | Ability to change the display language and choose a dark theme | ✔ | ✔ |
 | No ads | - |  ✔ |
-| Windows / Windows Mobile | {{< figure src="https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png" alt="Get DexOffline on Windows Store" width="200px" link="https://www.microsoft.com/store/apps/9n5xfpst5974?cid=storebadge&ocid=badge" >}} | {{< figure src="https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png" alt="Get DexOffline Plus on Windows Store" width="200px" link="https://www.microsoft.com/store/apps/9nfvk1wqt472?cid=storebadge&ocid=badge" >}} |
 | Android | {{< figure src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get DexOffline on Google Play" width="250px" link="https://play.google.com/store/apps/details?id=ro.hasna.dexoffline&utm_source=site" >}} | {{< figure src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get DexOffline Plus on Google Play" width="250px" link="https://play.google.com/store/apps/details?id=ro.hasna.dexoffline.plus&utm_source=site" >}} |
 | macOS / iOS | {{< figure src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Get DexOffline on App Store" width="200px" link="https://apps.apple.com/app/id1567763970" >}} | {{< figure src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Get DexOffline Plus on App Store" width="200px" link="https://apps.apple.com/app/id1567769712" >}} |
+| Windows / Windows Mobile | {{< figure src="https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png" alt="Get DexOffline on Windows Store" width="200px" link="https://apps.microsoft.com/store/detail/9n5xfpst5974" >}} | {{< figure src="https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png" alt="Get DexOffline Plus on Windows Store" width="200px" link="https://apps.microsoft.com/store/detail/9nfvk1wqt472" >}} |
 
 ## Support
 
