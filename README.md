@@ -1,5 +1,5 @@
 # personal-site #
 
-[![Build Status](https://img.shields.io/travis/com/octavian-h/personal-site/master.svg)](https://app.travis-ci.com/github/octavian-h/personal-site)
+![Build Status](https://github.com/octavian-h/personal-site/actions/workflows/hugo.yaml/badge.svg)
 
 My personal website generated with [HUGO](https://gohugo.io/).
