@@ -10,16 +10,10 @@ Last Updated: {{<lastModifiedDate>}}
 This privacy policy describes how Octavian Hasna (**"I"**) and 3rd parties services (both **"we"**)
 collect, use and share personal information of consumer users of the 
 [website](https://www.hasna.ro) (**"site"**) and of the following apps (**"products"**):
-* [DexOffline for Windows](https://www.microsoft.com/store/apps/9n5xfpst5974)
-* [DexOffline Plus for Windows](https://www.microsoft.com/store/apps/9nfvk1wqt472)
-* [DexOffline for Android](https://play.google.com/store/apps/details?id=ro.hasna.dexoffline)
-* [DexOffline Plus for Android](https://play.google.com/store/apps/details?id=ro.hasna.dexoffline.plus)
-* [DexOffline for macOS/iOS](https://apps.apple.com/app/id1567763970)
-* [DexOffline Plus for macOS/iOS](https://apps.apple.com/app/id1567769712)
-* [FunDictionary for Android](https://play.google.com/store/apps/details?id=ro.hasna.fundictionary)
-* [FunDictionary Plus for Android](https://play.google.com/store/apps/details?id=ro.hasna.fundictionary.plus)
-* [FunDictionary for macOS/iOS](https://apps.apple.com/app/id1619120887)
-* [FunDictionary Plus for macOS/iOS](https://apps.apple.com/app/id1619120905)
+* DexOffline
+* DexOffline Plus
+* FunDictionary
+* FunDictionary Plus
 
 ## What we collect
 
@@ -33,22 +27,27 @@ We collect your email address and other information you directly give us when yo
 
 We automatically log information about you and your device in the following ways:
 
-| Site | |
+| Website | |
 | :---: | :--- |
 | ✔ | view pages collected by Google Analytics: [privacy policy](https://policies.google.com/privacy), [cookie usage](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage), [opt-out tool](https://tools.google.com/dlpage/gaoptout) |
 
-| DexOffline for Windows | DexOffline Plus for Windows | |
+| DexOffline for [Windows](https://apps.microsoft.com/detail/9N5XFPST5974) | DexOffline Plus for [Windows](https://apps.microsoft.com/detail/9NFVK1WQT472) | |
 | :---: | :---: | :--- |
 | ✔ | ✔ | view tabs collected by Visual Studio App Center: [privacy policy](https://privacy.microsoft.com) |
-| ✔ | - | ads from AdDuplex: [privacy policy](https://www.adduplex.com/privacy-policy) and Vungle: [privacy policy](https://vungle.com/privacy/), ad personalization can be disabled from app |
+| ✔ | - | ads from Vungle: [privacy policy](https://vungle.com/privacy/), ad personalization can be disabled from app |
 
-| DexOffline for Android / macOS / iOS | DexOffline Plus for Android / macOS / iOS | |
+| DexOffline for [Android](https://play.google.com/store/apps/details?id=ro.hasna.dexoffline) / [macOS/iOS](https://apps.apple.com/app/id1567763970) | DexOffline Plus for [Android](https://play.google.com/store/apps/details?id=ro.hasna.dexoffline.plus) / [macOS/iOS](https://apps.apple.com/app/id1567769712) | |
 | :---: | :---: | :--- |
 | ✔ | ✔ | view tabs collected by Google Analytics for Firebase: [use policy](https://firebase.google.com/policies/analytics) |
 | ✔ | ✔ | crashes collected by Crashlytics: [data processing and security terms](https://firebase.google.com/terms/crashlytics-app-distribution-data-processing-terms) |
 | ✔ | - | ads from Google AdMob: [policies and restrictions](https://support.google.com/admob/answer/6128543) and Vungle: [privacy policy](https://vungle.com/privacy/), ad personalization can be disabled from app |
 
-| FunDictionary for Android / macOS / iOS | FunDictionary Plus for Android / macOS / iOS | |
+| FunDictionary for [Windows](https://apps.microsoft.com/detail/9N4BCG25SSRL) | FunDictionary Plus for [Windows](https://apps.microsoft.com/detail/9PBZ02TZ9XV2) | |
+| :---: | :---: | :--- |
+| ✔ | ✔ | view tabs collected by Visual Studio App Center: [privacy policy](https://privacy.microsoft.com) |
+| ✔ | - | ads from Vungle: [privacy policy](https://vungle.com/privacy/), ad personalization can be disabled from app |
+
+| FunDictionary for [Android](https://play.google.com/store/apps/details?id=ro.hasna.fundictionary) / [macOS/iOS](https://apps.apple.com/app/id1619120887) | FunDictionary Plus for [Android](https://play.google.com/store/apps/details?id=ro.hasna.fundictionary.plus) / [macOS/iOS](https://apps.apple.com/app/id1619120905) | |
 | :---: | :---: | :--- |
 | ✔ | ✔ | view tabs collected by Google Analytics for Firebase: [use policy](https://firebase.google.com/policies/analytics) |
 | ✔ | ✔ | crashes collected by Crashlytics: [data processing and security terms](https://firebase.google.com/terms/crashlytics-app-distribution-data-processing-terms) |

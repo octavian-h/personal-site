@@ -4,6 +4,16 @@ description: A list with my publised apps, libraries and contest problems.
 date: 2020-10-21
 ---
 
+## AppCenter SDK
+
+A SDK for Flutter framework with easy to use operations for tracking events and errors in AppCenter Dashboard. 
+https://pub.dev/packages/appcenter_sdk_plus
+
+## Asynchronous SQLite
+
+A Flutter library that provides async operations for commons SQL commands. 
+https://pub.dev/packages/sqlite3_async
+
 ## Fun Dictionary
 
 The goal of this app is to search words in English dictionaries and play word games like Hangman, Wordle etc.
