@@ -1,12 +1,19 @@
 baseURL: https://www.hasna.ro/
 title: Octavian Hasna
-paginate: 5
 theme: hugo-PaperMod
+
+pagination:
+  pagerSize: 5
 
 enableRobotsTXT: true
 enableGitInfo: true
-googleAnalytics: G-0YE02LQLLW
-disqusShortname: octavian1001
+enableInlineShortcodes: true
+
+services:
+  googleAnalytics:
+    id: G-0YE02LQLLW
+  disqus:
+    shortname: octavian1001
 
 taxonomies:
   category: categories
@@ -21,17 +28,19 @@ languages:
     params:
       label:
         text: Home
+      footer:
+        text: "[Privacy policy](/privacy-policy/)"
     menu:
       main:
         - name: Projects
           url: /projects/
-          weight: 2
+          weight: 1
         - name: Research
           url: /research/
-          weight: 3          
+          weight: 2
         - name: Publications
           url: /publications/
-          weight: 4
+          weight: 3
 
   ro:
     languageName: Română
@@ -42,9 +51,12 @@ languages:
         text: Acasa
     menu:
       main:
+        - name: Trasee
+          url: /routes/
+          weight: 1
         - name: Blog
           url: /posts/
-          weight: 1
+          weight: 2
 
 minify:
   minifyOutput: true
@@ -52,8 +64,8 @@ minify:
 params:
   env: production
   author: Octavian Hasna
-  description: Presentation website with personal projects, research interests, publications and a blog with Romanian posts.
-  keywords: [ blog, portfolio ]
+  description: Presentation website with personal projects, research interests, publications etc.
+  keywords: [ hiking, research, publications, projects]
 
   defaultTheme: auto
   disableThemeToggle: false
@@ -100,7 +112,7 @@ privacy:
     useSessionStorage: false
   instagram:
     disable: true
-  twitter:
+  x:
     disable: true
   vimeo:
     disable: true
