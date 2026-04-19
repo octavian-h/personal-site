@@ -91,7 +91,7 @@ params:
 
   profileMode:
     enabled: true
-    imageUrl: /apple-touch-icon.png
+    imageUrl: /images/apple-touch-icon.png
     imageTitle: site logo
 
   socialIcons:
