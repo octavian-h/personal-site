@@ -32,8 +32,8 @@ plin de o panoramă asupra Munților Gilăului și a întregului baraj.
 
 ## 🗺️ Planificare și Logistică
 
-* **Punct de plecare:** [Barajul Tarnița, Județul Cluj](https://www.google.com/maps/search/?api=1&query=Baraj+Tarnita)
-* **Ora recomandată:** 10:00 (pentru a profita de lumina bună pe stâncă)
+* **Punct de plecare:** [Barajul Tarnița, Județul Cluj](https://maps.app.goo.gl/8VXHeV2oXxVx66pC6)
+* **Ora de pornire in traseu:** 10:00
 * **Meteo:** [prognoza Meteoblue](https://www.meteoblue.com/ro/vreme/s%C4%83pt%C4%83m%C3%A2na/46.731N23.273E)
 * **Traseu:** [fișier GPX](/gpx/piatra-lui-lucaci.gpx)
 
